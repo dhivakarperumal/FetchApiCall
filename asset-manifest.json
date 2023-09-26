@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FetchApiCall/static/css/main.03657e4e.css",
+    "main.js": "/FetchApiCall/static/js/main.b0913270.js",
+    "static/media/2.jpg": "/FetchApiCall/static/media/2.47f59aba9c48a4e216db.jpg",
+    "index.html": "/FetchApiCall/index.html",
+    "main.03657e4e.css.map": "/FetchApiCall/static/css/main.03657e4e.css.map",
+    "main.b0913270.js.map": "/FetchApiCall/static/js/main.b0913270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03657e4e.css",
+    "static/js/main.b0913270.js"
+  ]
+}
